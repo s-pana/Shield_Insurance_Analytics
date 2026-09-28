@@ -12,7 +12,9 @@ An interactive, multi-page business intelligence solution developed for Shield I
 ## 🔗 Live Interactive Dashboard
 Experience the live, interactive Power BI report directly in your browser:
 👉 **[View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTdkNjMwOGItZjYwYy00NTdmLTk3ZDAtOTM4ZGRlMmU0Njk0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
-
+<br/>
+Watch the complete project presentation and walkthrough on LinkedIn:
+👉 **[View Project Presentation on LinkedIn](https://lnkd.in/p/dgZ6MXS7)**
 ---
 
 ## 📌 Executive Summary & Operational Scale
