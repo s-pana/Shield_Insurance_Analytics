@@ -1,5 +1,4 @@
-# Shield_Insurance_Analytics
-Interactive Power BI analytics solution for Shield Insurance tracking ₹989M+ revenue, customer demographic cohorts, multi-channel sales performance, and claim settlement exposure across 5 metros.
+
 # Shield Insurance – Customer & Revenue Analytics
 
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
